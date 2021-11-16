@@ -2,9 +2,10 @@
   
 https://code4fukui.github.io/input-postalcode/
 
-## account id is...
+## postalcode id is...
 
-0-9 x7
+0-9の7桁
+
 ## usage
 
 ```html
@@ -19,3 +20,8 @@ onload = () => {
 };
 </script>
 ```
+
+## related project
+
+[PoscalCode](https://github.com/code4fukui/PostalCode)
+
